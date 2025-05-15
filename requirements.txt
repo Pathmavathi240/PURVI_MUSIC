@@ -57,3 +57,4 @@ pycryptodome
 opencv-python
 Flask
 gunicorn
+pip freeze
