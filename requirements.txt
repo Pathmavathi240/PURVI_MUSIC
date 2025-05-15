@@ -55,6 +55,4 @@ img2pdf
 cloudscraper
 pycryptodome
 opencv-python
-Flask
-gunicorn
 
