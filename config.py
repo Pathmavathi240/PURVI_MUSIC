@@ -12,13 +12,13 @@ load_dotenv()
 API_ID = int(getenv("API_ID","24813756"))
 API_HASH = getenv("API_HASH","fa81359bca6cea6d6354bc38896cb84c")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN","7830397221:AAFW7KB4iRa46Tinm_byzzC3_IFa_X57AZ8")
+BOT_TOKEN = getenv("BOT_TOKEN","7690701639:AAFqaSR_jQaXRiJNEjSMtO-XL03_KqG1Q40")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","@Tamil_hot_chattinggg")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Redvoombu_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","@Seenolx_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME","Redlight")
+BOT_NAME = getenv("BOT_NAME","seenone")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME")
 # ---------------------------------------------------------
@@ -35,7 +35,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002471960216))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002570163188))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 OWNER_ID = int(getenv("OWNER_ID","7994196725"))
